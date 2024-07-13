@@ -48,6 +48,7 @@ main{
     text-align: center;
     margin-top: 100px;
     font-size: xx-large;
+    background-color: #FFFFFF #ADC8F7 #070159;
 }
 .section-description{
     font-size: medium;
@@ -62,4 +63,45 @@ main{
     margin-bottom: 100px;
     background-color: #FFFFFF #ADC8F7 #B3B3FF;
     
+}
+.learn{
+    background-color: #FFFFFF;
+    height: 47px;
+    width: 171px;
+    font-family: "Azeret Mono", monospace;
+    font-style: normal;
+    font-size: large;
+
+}
+/* section-items styles */
+.skill-container{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    font-size: large;
+    justify-content: center;
+}
+.skill-button{
+    border-bottom: black;
+}
+.skill-1{
+    background-color: #FDCCC5;
+    margin-right: 50px;
+    width: 364px;
+    height: 299px;
+
+}
+.skill-2{
+    background-color: #78A7FF;
+    margin-right: 50px;
+    width: 364px;
+    height: 299px;
+}
+.skill-3{
+    background-color: #FDCCC5;
+    width: 364px;
+    height: 299px;
+
 }
