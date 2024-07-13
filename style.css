@@ -85,6 +85,7 @@ main{
 }
 .skill-button{
     border-bottom: black;
+    text-decoration: underline;
 }
 .skill-1{
     background-color: #FDCCC5;
@@ -104,4 +105,30 @@ main{
     width: 364px;
     height: 299px;
 
+}
+/* footer styles */
+.footer{
+    justify-content: center;
+    background-image: url('./assets/handshake.jpg');
+    width: 1200px;
+    height: 200px;
+    margin-left: 400px;
+    margin-right:400px;
+    margin-bottom: 100px;
+    background-position-x: 150;
+    background-position-y: 4752;
+    text-align: center;
+    color: white;
+} 
+
+.btn-F{
+    font-size: 20px;
+    font-weight: bold;
+    height: 57px;
+    width: 120px;
+    background-color: white;
+}
+footer input [type="suggest me any feedback for me"]{
+    height: 57px;
+    width: 548px;
 }
