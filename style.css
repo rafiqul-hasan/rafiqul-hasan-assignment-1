@@ -54,8 +54,12 @@ main{
     text-align: center;
     margin-bottom: 200px;
 }
-/* section-content styles */
 .section-content{
-margin-left: 200px;
-padding: 130px 230px;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    background-color: #FFFFFF #ADC8F7 #B3B3FF;
+    
 }
